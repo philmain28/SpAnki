@@ -1,4 +1,4 @@
-# SpAinki
+# SpA(i)nki
 Automatic translation and Anki flash card creation from Spanish lyrics. Inspired by immersion methods for language learning, this script turns your favorite spanish song lyrics into Anki flashcards to help consolidate vocab.  
 
 # To Use
